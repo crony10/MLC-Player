@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MLC Player</string>
+    <string name="tab_text_1">Local</string>
+    <string name="tab_text_2">URL</string>
+</resources>
